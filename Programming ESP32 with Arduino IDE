@@ -4,6 +4,6 @@ URLs: https://dl.espressif.com/dl/package_esp32_index.json,
       
 Then install the ESP32 board from the Tools -> Board: -> Board manager
 Download the following libraries (Arduino IDE –> Sketch –> Include Library –> Add Zip Library.)
-Espalexa Library: https://github.com/Links2004/arduinoWebSockets/releases
+Espalexa Library: https://downloads.arduino.cc/libraries/github.com/Aircoookie/Espalexa-2.7.0.zip
 AceButton Library: https://github.com/bxparks/AceButton
 IRremote Library: https://github.com/Arduino-IRremote/Arduino-IRremote
